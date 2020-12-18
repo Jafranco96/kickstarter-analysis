@@ -17,7 +17,7 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-![Alt text](/relative/path/to/img.jpg?raw=true "Outcomes_vs_Goals")
+![Outcomes_vs_Goals](/relative/path/to/img.jpg?raw=true "Outcomes_vs_Goals")
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
