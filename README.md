@@ -10,7 +10,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-As mentioned, Louise is interested in seeing how similar theater-related Kickstarters with some differing variable parameters performed in comparison to hers.  One of these variables was the launch date of the Kickstarter campaign. Before commencing this particular analysis, it was imperative to first create an additional column in the raw Kickstarter date from the “Category and Subcategory” column called “Parent Category” as this would allow the analysis the ability to specifically drill down to the type of campaigns we are focusing on which, in this case, are theater-related campaigns. 
+As mentioned, Louise is interested in seeing how similar theater-related Kickstarters with some differing variable parameters performed in comparison to hers.  One of these variables was the launch date of the Kickstarter campaign. Before commencing this particular analysis, it was imperative to first create an additional column in the raw Kickstarter date from the “Category and Subcategory” column called “Parent Category” as this would allow the analysis the ability to specifically drill down to the *type* of campaigns we are focusing on which, in this case, are theater-related campaigns. 
 
 After this initial step, an additional column named “Years” was created by capturing the individual year from the “Date Created Conversion” column using the Excel Year() function. 
 
