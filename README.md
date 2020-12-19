@@ -25,6 +25,8 @@ While the pivot table is certainly useful in obtaining the conclusions from the 
 
 The second variable Louise is interested in analyzing its effect on a campaign’s outcome is the fundraising goal. For example, are campaigns with lower fundraising goals much more successful than those with higher goals? Is there a specific fundraising range that has the most successful percentage outcome? This is the purpose of this particular analysis.  To perform this analysis, a new table was created in the following format:
 
+<img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Goals_Table.png"/>
+
 To populate the “Number Successful”, “Number Failed”, and “Number Canceled” columns, the Excel COUNTIFS() function was utilized.  By categorizing both the specific fundraising range and outcome, along with having the “Subcategory” column fixated on the “plays” category, the formula returns the precise count of cells that meet all three conditionals within the data. This procedure is repeated until all three columns are completely populated, with the “Subcategory” filter on “plays” as the only constant in the formula. After this, the Excel SUM() function is used on each row to populate the “Total Projects” column.  Lastly, the “Percentage Successful”, “Percentage Failed”, and “Percentage Canceled” columns are populated for each fundraising range. The finalized table appeared as follows:
 
 Like in the previous analysis, a visualization of the data will quickly lead to identifying the analysis outcomes, so a line chart with the fundraising goal ranges on the X-axis and the outcome percentages on the Y-axis was created. From this line chart below, the fundraising goal ranges with the greatest success percentages are readily apparent. 
