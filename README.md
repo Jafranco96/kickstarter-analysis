@@ -14,6 +14,8 @@ As mentioned, Louise is interested in seeing how similar theater-related Kicksta
 
 After this initial step, an additional column named “Years” was created by capturing the individual year from the “Date Created Conversion” column using the Excel Year() function. With this column created, the raw Kickstarter data is now ready to be pivoted. By creating a pivot table and putting the following columns in these particular pivot fields, "Parent Category" and "Years" to Filters, "Outcomes" to Columns, count of "Outcomes" to Values, and "Date Created Conversion" to Rows, it allows the ability to view the counts of each specific campaign outcome at a monthly view. Since Louise is only interested in theater-related campaigns at this point, the "Parent Category" filter is set to "theater" and, as she is just interested in completed campaigns, the "live" selection is filtered out of the "Outcomes" field as well.  The finalized pivot table appeared as follows:
 
+<img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Outcomes_Pivot.png">
+
 While the pivot table is certainly useful in obtaining the conclusions from the analysis, a more clear, concise, and high-level way to draw these conclusions would be to create a visualization from the data, in this case a line chart would be the most appropriate visualization method. Creating a line chart from the pivot data results in the following chart where we can accurately and quickly infer how the launch dates affect the outcomes of theater-related campaigns.
 
 <img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png"/>
