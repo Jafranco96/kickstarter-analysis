@@ -57,4 +57,5 @@ The dataset is comprised of nine years of Kickstarter campaigns from the years 2
 
 - What are some other possible tables and/or graphs that we could create?
 
+Some additional analysis that could further aid Louise in creating more successful Kickstarter campaigns would be to examine the effect of being a staff pick or having the Kickstarter spotlight has on a campaign’s outcome.  The original hypothesis would be that having the spotlight or being a staff pick would further improve a campaign’s changes of meeting its fundraising goals. To examine just how closely related these variables are, a line graph with one series being the number of successful campaigns while the other series being the number of successful campaigns that were deemed a staff pick would be greatly beneficial. The same could be done for the successful campaigns that received the spotlight. If the line graphs do verify the original hypothesis, this analysis would give Louise another vital aspect to consider for her future campaigns. 
 
