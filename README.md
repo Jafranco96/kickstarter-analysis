@@ -25,6 +25,7 @@ To populate the “Number Successful”, “Number Failed”, and “Number Canc
 
 Like in the previous analysis, a visualization of the data will quickly lead to identifying the analysis outcomes, so a line chart with the fundraising goal ranges on the X-axis and the outcome percentages on the Y-axis was created. From this line chart below, the fundraising goal ranges with the greatest success percentages are readily apparent. 
 
+![test_image_1] (https://github.com/Jafranco96/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
