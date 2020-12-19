@@ -44,6 +44,11 @@ The alternate method offered by the recommendation is to instead create a “Ran
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+From the line chart created in the first analysis, it can be concluded what the best months to launch a theater-related Kickstarter campaign are. These months are the months of May, June, and July.  The line chart displays the absolute number of successful campaigns peaking during these months with the number of successful campaigns decreasing on both sides of the peak. Furthermore, by comparing the relative number of successful campaigns to the total number of campaigns by month, we see that not only do the months of May, June, and July have the highest *number* of successful campaigns, but also the highest *success percentage* of all months at 67%, 65%, and 63% respectively. For future Kickstarter campaigns, Louise should plan to initiate her campaign during these months. 
+
+The second conclusion that can be drawn is that there does not seem to be correlation between when a theater-related campaign starts and that campaign being ultimately canceled.  The “canceled” series in the line chart is fairly stable with no type of significant increase or decrease even as the monthly total number of campaigns changes. Whatever factor is influencing the cancellation of these campaigns, Louise should not consider the launch date as factor in the outcome. 
+
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
