@@ -18,6 +18,8 @@ After this initial step, an additional column named “Years” was created by c
 
 While the pivot table is certainly useful in obtaining the conclusions from the analysis, a more clear, concise, and high-level way to draw these conclusions would be to create a visualization from the data, in this case a line chart would be the most appropriate visualization method. Creating a line chart from the pivot data results in the following chart where we can accurately and quickly infer how the launch dates affect the outcomes of theater-related campaigns.
 
+<img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png"/>
+
 
 ### Analysis of Outcomes Based on Goals
 
