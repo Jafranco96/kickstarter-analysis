@@ -35,6 +35,11 @@ Like in the previous analysis, a visualization of the data will quickly lead to 
 
 ### Challenges and Difficulties Encountered
 
+While there were no difficulties encountered when performing both analyses, there is a recommendation to modify the process in which the Kickstarter fundraising goal ranges were analyzed. In this case, an Excel COUNTIFS() function was used to manually populate the fundraising goal range table that was created. Since there were only three individual outcome possibilities to consider within this particular dataset, this method was certainly suitable – but what if your analysis needs to be performed on a dataset that has a large number of outcome possibilities? This method would then be too time-consuming to consider. 
+
+The alternate method offered by the recommendation is to instead create a “Range Outcome” column within the raw data itself that is populated with an Excel conditional IF() function. With this column populated, the raw data can then be pivoted with “Range Outcome” on the Rows pivot field, the outcome column on the Columns pivot field, the count of the outcome column on the Values pivot field, and with whatever other filters are necessary. In this method, a separate range table doesn’t have to be created and there is no need to manually populate it. The pivot table does all the necessary work. Another additional benefit of this method is that there would be no errors present that are caused by typos within the COUNTIFS() functions, so this method offers both a faster and more precise approach.
+
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
