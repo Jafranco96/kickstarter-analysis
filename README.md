@@ -53,6 +53,8 @@ The second conclusion that can be drawn is that there does not seem to be correl
 
 - What are some limitations of this dataset?
 
+The dataset is comprised of nine years of Kickstarter campaigns from the years 2009 to 2017, encompassing 4,114 Kickstarter campaigns in total. Yet, the number of campaigns in the dataset are not equally distributed throughout all the years. In fact, just the year 2015 constitutes 1,225 campaigns or about 30% of the total amount of campaigns. Whether this is due to the dataset being incomplete or just that there were that many more Kickstarter campaigns in that particular year, the concentration of the dataset to such an extent in only one year could skew the analytical outcomes to some degree. All datasets will have limitations to some extent, so it is important to acknowledge them to identify in what ways the final analysis could be impacted. 
+
 - What are some other possible tables and/or graphs that we could create?
 
 
