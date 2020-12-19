@@ -23,7 +23,7 @@ While the pivot table is certainly useful in obtaining the conclusions from the 
 
 ### Analysis of Outcomes Based on Goals
 
-The second variable Louise is interested in analyzing its effect on a campaign’s outcome is the fundraising goal. For example, are campaigns with lower fundraising goals much more successful than those with higher goals? Is there a specific fundraising range that has the most successful percentage outcome? This is the purpose of this particular analysis.  To perform this analysis, a new table was created in the following format:
+The second variable Louise is interested in analyzing its effect on a campaign’s outcome is the fundraising goal. For example, are campaigns with lower fundraising goals much more successful than those with higher goals? Is there a specific fundraising range that has the highest success percentage? This is the purpose of this particular analysis.  To perform this analysis, a new table was created in the following format:
 
 <img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Goals_Table.png"/>
 
