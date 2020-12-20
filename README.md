@@ -51,6 +51,8 @@ The second conclusion that can be drawn is that there does not seem to be correl
 
 - What can you conclude about the Outcomes based on Goals?
 
+From the Outcomes Based on Goal line chart, the fundraising range with the highest success percentage is the less than $1,000 range, having a success percentage of 76%. Even with the fundraising ranges increasing, every subsequent fundraising range has at least a 50% chance of succeeding until the $20,000 to $24,999 range. Surprisingly, the success percentage actually increases over 50% when arriving to the $35,000 to $39,999 and the $40,000 to $44,999 ranges with both having a 67% chance of success. For future Kickstarter campaigns, Louise should budget her plays either under $20,000 or between $35,000 to $44,999 if she wants to give herself at least a 50% chance of success. She should avoid having her budget failing in between these two parameters.  
+
 - What are some limitations of this dataset?
 
 The dataset is comprised of nine years of Kickstarter campaigns from the years 2009 to 2017, encompassing 4,114 Kickstarter campaigns in total. Yet, the number of campaigns in the dataset are not equally distributed throughout all the years. In fact, just the year 2015 constitutes 1,225 campaigns or about 30% of the total amount of campaigns. Whether this is due to the dataset being incomplete or just that there were that many more Kickstarter campaigns in that particular year, the concentration of the dataset to such an extent in only one year could skew the analytical outcomes to some degree. All datasets will have limitations to some extent, so it is important to acknowledge them to identify in what ways the final analysis could be impacted. 
