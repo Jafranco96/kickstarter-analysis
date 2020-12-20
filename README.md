@@ -18,20 +18,20 @@ After this initial step, an additional column named “Years” was created by c
 
 While the pivot table is certainly useful in obtaining the conclusions from the analysis, a more clear, concise, and high-level way to draw these conclusions would be to create a visualization from the data, in this case a line chart would be the most appropriate visualization method. Creating a line chart from the pivot data results in the following chart where we can accurately and quickly infer how the launch dates affect the outcomes of theater campaigns.
 
-<img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png"/>
+<img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png"/>
 
 
 ### Analysis of Outcomes Based on Goals
 
 The second variable Louise is interested in analyzing its effect on a campaign’s outcome is the fundraising goal. For example, are campaigns with lower fundraising goals much more successful than those with higher goals? Is there a specific fundraising range that has the highest success percentage? To answer those questions, a new table was created in the following format:
 
-<img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Goals_Table.png"/>
+<img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Resources/Goals_Table.png"/>
 
 To populate the “Number Successful”, “Number Failed”, and “Number Canceled” columns, the Excel COUNTIFS() function was utilized.  By categorizing both the specific fundraising range and outcome, along with having the “Subcategory” column fixated on the “plays” category, the formula returns the precise count of cells that meet all three conditionals within the data. This procedure is repeated until all three columns are completely populated, with the “Subcategory” filter on “plays” as the only constant in the formula. After this, the Excel SUM() function is used on each row to populate the “Total Projects” column.  Lastly, the “Percentage Successful”, “Percentage Failed”, and “Percentage Canceled” columns are populated for each fundraising range. 
 
 Like in the previous analysis, a visualization of the data will quickly lead to identifying the analysis outcomes, so a line chart with the fundraising goal ranges on the X-axis and the outcome percentages on the Y-axis was created. From this line chart below, the fundraising goal ranges with the greatest success percentages are readily apparent. 
 
-<img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png"/>
+<img src = "https://github.com/Jafranco96/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png"/>
 
 ### Challenges and Difficulties Encountered
 
